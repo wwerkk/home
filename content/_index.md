@@ -2,6 +2,14 @@
 title: W K Werkowicz
 enableToc: false
 ---
+person with a computer in SE London
+---
+[code](code.md)
 
-Something something something.
+[sound](sound.md)
 
+[dates](dates.md)
+
+[about](about.md)
+---
+mail: szawiarz@proton.me
