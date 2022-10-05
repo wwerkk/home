@@ -2,6 +2,6 @@
 permaps
 ---
 
-![permaps?](permaps%3F.jpg "permaps?")
+![permaps?](permaps.jpg "permaps?")
 
 *permaps?*
