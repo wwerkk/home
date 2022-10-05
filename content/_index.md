@@ -15,4 +15,4 @@ person with a computer in SE London
 
 [about](about.md)
 
-[other][other/timely-beignet.md]
+[other](other/timely-beignet.md)
