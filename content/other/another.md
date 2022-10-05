@@ -2,5 +2,5 @@
 title: another
 ---
 
-did you mean [[timely-beignet|one]]?
-or perhaps [[many|many]]
+did you mean [one](timely-beignet.md)
+or perhaps [many](many)

@@ -1,4 +1,4 @@
 ---
 dg-publish: true
 ---
-but is it [[really|another]]?
+but is it [really](another)
