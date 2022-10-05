@@ -14,6 +14,3 @@ person with a computer in SE London
 [dates](dates.md)
 
 [about](about.md)
-
----
-mail: szawiarz@proton.me
