@@ -7,10 +7,10 @@ person with a computer in SE London
 
 ---
 
+[dates](dates.md)
+
 [code](code.md)
 
 [sound](sound.md)
-
-[dates](dates.md)
 
 [about](about.md)
