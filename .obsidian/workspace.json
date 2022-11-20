@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "54a5f2cc3ec40273",
+    "type": "split",
+    "children": [
+      {
+        "id": "061ace8f0fb1127a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "027eb1ecce0f6b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3901df4df7310a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/20.11.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e86e7a64fc17050a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/data signal processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e9d6aad7b811974",
+    "type": "split",
+    "children": [
+      {
+        "id": "8273d4791d1f1979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e04cd2eadb6b48d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9312cd18bf0fbedc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdd8b697927b7347",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c325eb4f87c15dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fc6efdbcc3f510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af39c73f03c677fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/20.11.2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcff6d098ee044ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/20.11.2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55d41ef8a18c8817",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db9f073418aa13e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/20.11.2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e04cd2eadb6b48d",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "content/CODE_OF_CONDUCT.md",
+    "content/data signal processing.md",
+    "content/resources.md",
+    "content/20.11.2022.md",
+    "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/about.md",
+    "content/code.md",
+    "Untitled.md"
+  ]
+}

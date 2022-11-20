@@ -1,16 +1,13 @@
 ---
-title: W K Werkowicz
+title: Dissertation Diarty of student 33655491
 enableToc: false
 ---
-
-person with a computer in SE London
+*This is an agglomerate site for documenting research related to my dissertation/final project.
+Some thinking, formalising and hyperlinks will surely fill it up over the next months.*
 
 ---
+Entries by date:
+[[20.11.2022]]
 
-[dates](dates.md)
-
-[code](code.md)
-
-[sound](sound.md)
-
-[about](about.md)
+[[resources]]
+[[demos]]
