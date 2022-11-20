@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/20.11.2022.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/20.11.2022.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/20.11.2022.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -161,13 +160,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e04cd2eadb6b48d",
+  "active": "027eb1ecce0f6b27",
   "lastOpenFiles": [
+    "content/20.11.2022.md",
     "content/_index.md",
     "content/CODE_OF_CONDUCT.md",
     "content/data signal processing.md",
     "content/resources.md",
-    "content/20.11.2022.md",
     "content/templates/post.md",
     "content/private/private-note.md",
     "content/about.md",
