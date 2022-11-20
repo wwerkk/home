@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "027eb1ecce0f6b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3901df4df7310a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/20.11.2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e86e7a64fc17050a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/data signal processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/20.11.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/20.11.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/20.11.2022.md"
               }
             }
           }
@@ -160,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "027eb1ecce0f6b27",
+  "active": "3901df4df7310a28",
   "lastOpenFiles": [
-    "content/20.11.2022.md",
-    "content/_index.md",
-    "content/CODE_OF_CONDUCT.md",
     "content/data signal processing.md",
-    "content/resources.md",
-    "content/templates/post.md",
-    "content/private/private-note.md",
-    "content/about.md",
-    "content/code.md",
-    "Untitled.md"
+    "content/20.11.2022.md",
+    "content/audio feature extraction.md",
+    "content/audio feature analysis.md",
+    "content/librosa.md",
+    "content/Python.md",
+    "content/Sound and Signal.md",
+    "content/EMCT.md",
+    "content/hype.md",
+    "content/machine learning.md"
   ]
 }
