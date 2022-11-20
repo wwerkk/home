@@ -9,7 +9,7 @@ Some thinking, formalising and hyperlinks will surely fill it up over the next m
 ### Entries by date:
 #### November
 
-[[20.11.2022]]
+[[20th November 2022]]
 
 ### Entries by topic:
 [[resources]]
