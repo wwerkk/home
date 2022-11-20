@@ -6,11 +6,12 @@ enableToc: false
 Some thinking, formalising and hyperlinks will surely fill it up over the next months.
 
 ---
-## By date:
-### November
+### Entries by date:
+#### November
 
 [[20.11.2022]]
 
-## By topic:
+### Entries by topic:
 [[resources]]
+
 [[demos]]

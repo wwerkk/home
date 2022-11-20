@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/20.11.2022.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/20.11.2022.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/20.11.2022.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/20.11.2022.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "3901df4df7310a28",
   "lastOpenFiles": [
-    "content/data signal processing.md",
+    "content/demos.md",
+    "content/_index.md",
+    "content/resources.md",
     "content/20.11.2022.md",
+    "content/data signal processing.md",
     "content/audio feature extraction.md",
     "content/audio feature analysis.md",
     "content/librosa.md",
     "content/Python.md",
-    "content/Sound and Signal.md",
-    "content/EMCT.md",
-    "content/hype.md",
-    "content/machine learning.md"
+    "content/Sound and Signal.md"
   ]
 }
