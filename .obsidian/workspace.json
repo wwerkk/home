@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb5c05f4200d5927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
+                "file": "content/private/draft proposal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/private/draft proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/private/draft proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/private/draft proposal.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb5c05f4200d5927",
+  "active": "3901df4df7310a28",
   "lastOpenFiles": [
-    "content/20.11.2022.md",
+    "content/private/private-note.md",
+    "content/private/draft proposal.md",
+    "content/private/diagram.png.md",
     "content/_index.md",
+    "content/20.11.2022.md",
     "content/demos.md",
     "content/resources.md",
     "content/data signal processing.md",
     "content/audio feature extraction.md",
-    "content/audio feature analysis.md",
-    "content/librosa.md",
-    "content/Python.md",
-    "content/Sound and Signal.md"
+    "content/audio feature analysis.md"
   ]
 }
