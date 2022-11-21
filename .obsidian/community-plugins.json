@@ -3,5 +3,7 @@
   "table-editor-obsidian",
   "obsidian-citation-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-plantuml",
+  "obsidian-image-caption"
 ]
