@@ -7,8 +7,12 @@
         "id": "38794b8ea6c620e4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/12th February 2023.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/12th February 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/12th February 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/12th February 2023.md"
+              }
             }
           }
         ]
@@ -122,6 +130,7 @@
   },
   "active": "38794b8ea6c620e4",
   "lastOpenFiles": [
+    "content/12th February 2023.md",
     "content/private/Preliminary Project Report Bibliography.md",
     "content/private/EMCT Final Project Proposal.md",
     "content/private/EMCT Preliminary Project Report.md",
@@ -130,7 +139,6 @@
     "content/private/EMCT Preliminary Project Report.pdf",
     "content/private/diagramtest.md",
     "content/timeline.png",
-    "content/private/EMCT Final Project Proposal.pdf",
-    "content/_index.md"
+    "content/private/EMCT Final Project Proposal.pdf"
   ]
 }
