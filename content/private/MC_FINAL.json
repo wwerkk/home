@@ -1,0 +1,230 @@
+[
+	{
+		"id": "http://zotero.org/users/10914180/items/57VL6BG3",
+		"type": "article-journal"
+	},
+	{
+		"id": "http://zotero.org/users/10914180/items/RV5QI6QA",
+		"type": "article-journal",
+		"container-title": "IEEE Signal Processing Magazine",
+		"DOI": "10.1109/MSP.2007.323274",
+		"ISSN": "1053-5888",
+		"issue": "2",
+		"journalAbbreviation": "IEEE Signal Process. Mag.",
+		"page": "92-104",
+		"source": "DOI.org (Crossref)",
+		"title": "Corpus-Based Concatenative Synthesis",
+		"URL": "http://ieeexplore.ieee.org/document/4117932/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Schwarz",
+				"given": "D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/10914180/items/HNW4Q3TW",
+		"type": "paper-conference",
+		"container-title": "International Computer Music Conference (ICMC)",
+		"event-place": "Belfast, United Kingdom",
+		"page": "1-1",
+		"publisher-place": "Belfast, United Kingdom",
+		"title": "What Next? Continuation in Real-Time Corpus-Based Concatenative Synthesis",
+		"URL": "https://hal.archives-ouvertes.fr/hal-01161402",
+		"author": [
+			{
+				"family": "Schwarz",
+				"given": "Diemo"
+			},
+			{
+				"family": "Cadars",
+				"given": "Sylvain"
+			},
+			{
+				"family": "Schnell",
+				"given": "Norbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/10914180/items/8BCV48DW",
+		"type": "article-journal",
+		"abstract": "This article presents a new software toolbox to enable programmatic mining of sound banks for musicking and musicking-driven research. The toolbox is available for three popular creative coding environments currently used by “techno-fluent” musicians. The article describes the design rationale and functionality of the toolbox and its ecosystem, then the development methodology—several versions of the toolbox have been seeded to early adopters who have, in turn, contributed to the design. Examples of these early usages are presented, and we describe some observed musical affordances of the proposed approach to the exploration and manipulation of music corpora, as well as the main roadblocks encountered. We finally reflect on a few emerging themes for the next steps in building a community around critical programmatic mining of sound banks.",
+		"container-title": "Computer Music Journal",
+		"DOI": "10.1162/comj_a_00600",
+		"ISSN": "0148-9267",
+		"issue": "2",
+		"journalAbbreviation": "Computer Music Journal",
+		"page": "9-23",
+		"title": "Enabling Programmatic Data Mining as Musicking: The Fluid Corpus Manipulation Toolkit",
+		"URL": "https://doi.org/10.1162/comj_a_00600",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Tremblay",
+				"given": "Pierre Alexandre"
+			},
+			{
+				"family": "Roma",
+				"given": "Gerard"
+			},
+			{
+				"family": "Green",
+				"given": "Owen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/10914180/items/VPXPEGKD",
+		"type": "article",
+		"abstract": "Fast and user-controllable music generation could enable novel ways of composing or performing music. However, state-of-the-art music generation systems require large amounts of data and computational resources for training, and are slow at inference. This makes them impractical for real-time interactive use. In this work, we introduce Musika, a music generation system that can be trained on hundreds of hours of music using a single consumer GPU, and that allows for much faster than real-time generation of music of arbitrary length on a consumer CPU. We achieve this by first learning a compact invertible representation of spectrogram magnitudes and phases with adversarial autoencoders, then training a Generative Adversarial Network (GAN) on this representation for a particular music domain. A latent coordinate system enables generating arbitrarily long sequences of excerpts in parallel, while a global context vector allows the music to remain stylistically coherent through time. We perform quantitative evaluations to assess the quality of the generated samples and showcase options for user control in piano and techno music generation. We release the source code and pretrained autoencoder weights at github.com/marcoppasini/musika, such that a GAN can be trained on a new music domain with a single GPU in a matter of hours.",
+		"note": "arXiv:2208.08706 [cs, eess]",
+		"number": "arXiv:2208.08706",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Musika! Fast Infinite Waveform Music Generation",
+		"URL": "http://arxiv.org/abs/2208.08706",
+		"author": [
+			{
+				"family": "Pasini",
+				"given": "Marco"
+			},
+			{
+				"family": "Schlüter",
+				"given": "Jan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/10914180/items/MLQEAXY6",
+		"type": "article",
+		"abstract": "We introduce Jukebox, a model that generates music with singing in the raw audio domain. We tackle the long context of raw audio using a multi-scale VQ-VAE to compress it to discrete codes, and modeling those using autoregressive Transformers. We show that the combined model at scale can generate high-fidelity and diverse songs with coherence up to multiple minutes. We can condition on artist and genre to steer the musical and vocal style, and on unaligned lyrics to make the singing more controllable. We are releasing thousands of non cherry-picked samples at https://jukebox.openai.com, along with model weights and code at https://github.com/openai/jukebox",
+		"note": "arXiv:2005.00341 [cs, eess, stat]",
+		"number": "arXiv:2005.00341",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Jukebox: A Generative Model for Music",
+		"title-short": "Jukebox",
+		"URL": "http://arxiv.org/abs/2005.00341",
+		"author": [
+			{
+				"family": "Dhariwal",
+				"given": "Prafulla"
+			},
+			{
+				"family": "Jun",
+				"given": "Heewoo"
+			},
+			{
+				"family": "Payne",
+				"given": "Christine"
+			},
+			{
+				"family": "Kim",
+				"given": "Jong Wook"
+			},
+			{
+				"family": "Radford",
+				"given": "Alec"
+			},
+			{
+				"family": "Sutskever",
+				"given": "Ilya"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/10914180/items/NX44QQT9",
+		"type": "post-weblog",
+		"abstract": "We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was not explicitly programmed with our understanding of music, but instead discovered patterns of harmony, rhythm, and style by learning to predict the next token in hundreds of thousands of MIDI files. MuseNet uses the same general-purpose unsupervised technology as GPT-2, a large-scale transformer model trained to predict the next token in a sequence, whether audio or text.",
+		"container-title": "OpenAI Blog",
+		"title": "MuseNet",
+		"URL": "https://openai.com/blog/musenet/",
+		"author": [
+			{
+				"family": "McLeavey Payne",
+				"given": "Christine"
+			}
+		]
+	}
+]

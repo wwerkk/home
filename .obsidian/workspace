@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8c7f72a6af2aa9",
+        "id": "38794b8ea6c620e4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/_index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.0019226074219
   },
   "right": {
     "id": "2c325eb4f87c15dd",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,9 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b8c7f72a6af2aa9",
+  "active": "38794b8ea6c620e4",
   "lastOpenFiles": [
-    "content/dates.md",
+    "content/private/Preliminary Project Report Bibliography.md",
+    "content/private/EMCT Final Project Proposal.md",
+    "content/private/EMCT Preliminary Project Report.md",
+    "content/private/EMCT Final Project Proposal Draft.md",
+    "content/private/Appendix-1.html.md",
+    "content/private/EMCT Preliminary Project Report.pdf",
+    "content/private/diagramtest.md",
+    "content/timeline.png",
+    "content/private/EMCT Final Project Proposal.pdf",
     "content/_index.md"
   ]
 }
